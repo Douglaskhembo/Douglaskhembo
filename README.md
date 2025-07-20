@@ -18,8 +18,11 @@ My expertise lies in both frontend and backend development, leveraging technolog
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 
 ---
 
@@ -35,7 +38,13 @@ My expertise lies in both frontend and backend development, leveraging technolog
 
 ### 📈 Contribution Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Douglaskhembo&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Douglaskhembo&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Douglaskhembo&theme=radical&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -47,4 +56,4 @@ My expertise lies in both frontend and backend development, leveraging technolog
 
 ---
 
-⭐️ _Thanks for visiting my profile!_  
+⭐️ _Thanks for visiting my profile!_
