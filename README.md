@@ -25,10 +25,6 @@ My expertise lies in **Java**, **Spring Boot**, **Python**, **Django**, and **Ja
 
 ### 📊 GitHub Stats
 
-![Douglas Khembo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Douglaskhembo\&show_icons=true\&theme=radical\&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Douglaskhembo\&layout=compact\&theme=radical\&count_private=true\&langs_count=8\&hide=html,css)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Douglaskhembo\&theme=radical)
 
 ---
