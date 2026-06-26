@@ -35,12 +35,6 @@ My expertise lies in **Java**, **Spring Boot**, **Python**, **Django**, and **Ja
 
 ---
 
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Douglaskhembo\&theme=radical\&no-frame=true\&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ### 📫 Connect with me
 
 * Email: [khembo.douglas.juma@gmail.com](mailto:khembo.douglas.juma@gmail.com)
