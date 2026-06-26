@@ -29,14 +29,6 @@ My expertise lies in **Java**, **Spring Boot**, **Python**, **Django**, and **Ja
 
 ---
 
-### 📌 Featured Projects
-
-* 🔹 Hospitality / Insurance System – Spring Boot backend with role-based access
-* 🔹 TechHealth System – Multi-hospital management platform
-* 🔹 Anomaly Detection System – Machine learning for log analysis
-
----
-
 ### 📈 Contribution Graph
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Douglaskhembo\&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
